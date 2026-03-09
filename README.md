@@ -1,8 +1,33 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Krisada Champasri (K.Mild) 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🛠 System Integrator | IoT Enthusiast | Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+ผมมีความเชี่ยวชาญในการออกแบบและพัฒนาเทคโนโลยี **IoT**, **Smart Building** และระบบ **Automation** โดยเน้นการเชื่อมต่อ Hardware และ Software เข้าด้วยกันอย่างมีประสิทธิภาพ
+
+---
+
+### 🚀 Technical Skills
+
+* **Programming Languages:** Python (Data Processing, Scripting, API)
+* **Automation & Flow:** Node-RED (Dashboard, Logic, Integration)
+* **IoT Ecosystem:** MQTT, Modbus, REST API, GRMS, RCU
+* **Tools & Platforms:** Docker, Git, Linux Server, Schneider EcoStruxure (EBO)
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me:
+
+* **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
+* **Location:** Pathum Thani, Thailand 🇹🇭
+* **Company:** Piramid Solutions
+
+---
+
+> "Turning complex problems into automated solutions."
