@@ -1,33 +1,43 @@
 # Hi there, I'm Krisada Champasri (K.Mild) 👋
 
-### 🛠 System Integrator | IoT Enthusiast | Developer
+### 🛠 System Integrator | IoT Specialist | Developer
 
-ผมมีความเชี่ยวชาญในการออกแบบและพัฒนาเทคโนโลยี **IoT**, **Smart Building** และระบบ **Automation** โดยเน้นการเชื่อมต่อ Hardware และ Software เข้าด้วยกันอย่างมีประสิทธิภาพ
+I am a passionate **System Integrator** and **Developer** specializing in **IoT**, **Smart Building** solutions, and **Industrial Automation**. I bridge the gap between hardware and software to create seamless, automated ecosystems.
 
 ---
 
-### 🚀 Technical Skills
+### 🚀 Technical Expertise
 
-* **Programming Languages:** Python (Data Processing, Scripting, API)
-* **Automation & Flow:** Node-RED (Dashboard, Logic, Integration)
-* **IoT Ecosystem:** MQTT, Modbus, REST API, GRMS, RCU
-* **Tools & Platforms:** Docker, Git, Linux Server, Schneider EcoStruxure (EBO)
+* **Programming:** Python (Automation, Data Integration, Web APIs)
+* **Flow-Based Development:** Node-RED (Dashboard Design, Logic flow, MQTT/HTTP Integration)
+* **IoT & Building Systems:** Modbus, BACnet, GRMS, RCU, and Smart Classroom solutions.
+* **Infrastructure:** Server Administration, Nginx, SQL Server, and Network Configuration.
+* **Platforms:** Schneider Electric EcoStruxure (EBO), Digital Twins (CesiumJS).
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Connect with me:
+### 💼 Current Professional Focus
 
-* **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)
+* **Assistant Manager** at **Piramid Solutions**.
+* Designing and implementing **Smart Guest Room Management Systems (GRMS)**.
+* Developing **Digital Twin** architectures for real-time building monitoring.
+* Integrating **Traffic Monitoring Systems** and AI-driven security solutions.
+
+---
+
+### 📫 Let's Connect:
+
+* **LinkedIn:** [Your Profile Link]
 * **Location:** Pathum Thani, Thailand 🇹🇭
-* **Company:** Piramid Solutions
+* **Education:** King Mongkut's University of Technology North Bangkok (KMUTNB)
 
 ---
 
-> "Turning complex problems into automated solutions."
+> *"Automating the world, one node at a time."*
